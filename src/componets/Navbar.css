@@ -1,0 +1,13 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+  }
+
+  .discord-logo{
+    width: 300px;
+  }
+
+  .menu-icon{
+    height: 40px;
+  }

@@ -1,13 +1,5 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-body{
-  background-color: rgb(67, 78, 228);
-}
 
-.logo{
+/*.logo{
   width: 160px;
 }
 
